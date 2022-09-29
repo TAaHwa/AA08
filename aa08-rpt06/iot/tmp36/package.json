@@ -1,0 +1,20 @@
+{
+  "name": "tmp36",
+  "version": "1.0.0",
+  "description": "tmp36-node project",
+  "main": "tmp36_node.js",
+  "scripts": {
+    "test": "tmp36 node"
+  },
+  "keywords": [
+    "tmp36",
+    "node",
+    "arduino"
+  ],
+  "author": "aa08",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^9.2.4",
+    "socket.io": "^2.4.1"
+  }
+}
